@@ -2,6 +2,7 @@ body {
   font-family: sans-serif;
   max-width: 400px;
   margin: 40px auto;
+  background: #f0f4f8;
 }
 h1 {
   color: #333;
